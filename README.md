@@ -9,7 +9,7 @@ My skills and their level are those of a student.
 * 💻 Java SE, SQL, Spanish
 * 👩‍💻 Eclipse, NetBeans, InteliJ, Oracle SQL Developer. 
 
-- 🔭 I’m currently working on making the correct documentiation for my past assignments so that I can show what I have worked on so far. In addition to further learn Java, and to begin learning Python.
+- 🔭 I’m currently working on making the correct documentiation for my past assignments so that I can show what I have worked on so far. In addition to further learn Java, and learning Python, and MySQL.
 
 ## Outside Tech 
  
