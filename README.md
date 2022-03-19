@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 
-I am Patricia - a software engineer in the making! Currently, at my last year of studies. Welcome!! 
-
+I am Patricia - a software engineer in the making! Currently. Currenly at my last year of studies 🥳 🐣
 
 
 - 🔭 I’m currently working on my academic projects. They are quite cool and the most exciting one is where I get to make a data warehouse from a given case scenario using Oracle SQL Developer and Visual Paradigm. 
@@ -36,5 +35,5 @@ Here are some ideas to get you started:
 
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=IngPatricia.visitor-badge&left_text=HelloVisitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=IngPatricia.visitor-badge&left_text=OneMoreVisitor)
 
