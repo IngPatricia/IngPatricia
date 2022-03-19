@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I am Patricia - a software engineer in the making! Currently. Currenly at my last year of studies 🥳 🐣
+I am Patricia - a software engineer in the making! Currenly at my last year of studies 🥳 🐣
 
 
 - 🔭 I’m currently working on my academic projects. They are quite cool and the most exciting one is where I get to make a data warehouse from a given case scenario using Oracle SQL Developer and Visual Paradigm. 
