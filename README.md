@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![IngPatricia GitHub stats](https://github-readme-stats.vercel.app/api?username=IngPatricia&show_icons=true&theme=tokyonight)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IngPatricia&langs_count=10&layout=compact&count_private=true)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IngPatricia&langs_count=10&layout=compact&count_private=true) -->
 
 
 
