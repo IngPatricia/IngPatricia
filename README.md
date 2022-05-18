@@ -1,14 +1,13 @@
 ## Hi there 👋
 
 
-I am Patricia - a software engineer in the making! Currenly at my last year of studies 🥳 🐣
+I am Patricia - a software engineer in the making! 👩‍💻  
 
+- 🔭 I’m currently working on my academic projects as I am heading towards the end of my degree 🥳 🐣
 
-- 🔭 I’m currently working on my academic projects. They are quite cool and the most exciting one is where I get to make a data warehouse from a given case scenario using Oracle SQL Developer and Visual Paradigm. 
+- 🌱 Outside my university learning, I enjoy taking courses on Udemy - I am Continuous learner.
 
-- 🌱 I’m currently learning about JavaScript ES6 ECMAScript 2018, CSS animations, and JavaScript APIs.
-
-- ⚡ Fun fact: I got curious about writting blogs for students like me so keep an eye!
+- ⚡ Fun fact: I am also a good painter - well that's is what I think :p 
 
 <!--
 **IngPatricia/IngPatricia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
