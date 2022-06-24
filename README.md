@@ -5,7 +5,7 @@ I am Patricia - a software engineer in the making! 👩‍💻
 
 - 🔭 I’m currently working on my academic projects as I am heading towards the end of my degree 🥳 🐣
 
-- 🌱 Outside my university learning, I enjoy taking courses on Udemy - I am Continuous learner.
+- 🌱 Outside my university learning, I enjoy taking courses on Udemy, reading blogs or following online tutorials - I am a continuous learner.
 
 - ⚡ Fun fact: I am also a good painter - well that's is what I think :p 
 
