@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I am Patricia - a software engineer in the making! 👩‍💻  
+I am Patricia - a software engineering student! 👩‍💻  
 
 - 🔭 I’m currently working on my academic projects as I am heading towards the end of my degree 🥳 🐣
 
