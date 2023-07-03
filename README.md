@@ -1,13 +1,12 @@
 ## Hi there 👋
 
 
-I am Patricia - a software engineering student! 👩‍💻  
+I am Patricia - a recent Software Engineering Grad! 👩‍💻  
 
-- 🔭 I’m currently working on my academic projects as I am heading towards the end of my degree 🥳 🐣
+- 🔭 I’m currently working on earning my first AWS certification, and a few projects. 🥳 🐣
 
-- 🌱 Outside my university learning, I enjoy taking courses on Udemy, reading blogs or following online tutorials - I am a continuous learner.
+- 🌱 Outside computer I enjoy going networking and meeting others in the field. 
 
-- ⚡ Fun fact: I am also a good painter - well that's is what I think :p 
 
 <!--
 **IngPatricia/IngPatricia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
