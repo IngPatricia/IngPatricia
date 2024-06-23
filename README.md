@@ -3,11 +3,11 @@
 
 I am Patricia - a recent Software Engineering Grad! 👩‍💻  
 
-- 👩‍💻 My most recent tech stack & tools includes React, Typescript, JavaScript, Jenkins, Docker, VS Code, MacOs, Rider IDE, Confluence & Jira  
+- 👩‍💻 Currenly navigating the world of SecOps, learning PowerShell & Python
 
-- 🔭 I’m currently working towards my first AWS certification, and a few projects. 🥳 🐣
+- 🔭 I’m currently working towards Network+, and a few projects. 🥳 🐣
 
-- 🌱 Outside computer I enjoy going networking and meeting others in the field. 
+- 🌱 Always learning. 
 
 
 <!--
